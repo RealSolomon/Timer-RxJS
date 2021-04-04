@@ -2,16 +2,22 @@
 
 Start, stop, pause and reset timer using RxJS.
 
-## Available Scripts
+## Установка
+```
+yarn install
+```
+## Запуск на [http://localhost:3000](http://localhost:3000)
+```
+yarn start
+```
 
-In the project directory, you can run:
+### Live DEMO
+See [Demo](https://timer-rx-js.vercel.app).
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![alt text](screenshots/demo.jpg "ScreenShot")
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+
+
 
 
